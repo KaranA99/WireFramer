@@ -5,4 +5,7 @@ This project was created using Javascript with React/HTML/CSS and Firebase as th
 <img src = "https://user-images.githubusercontent.com/56744953/95165413-ec30f200-0779-11eb-9dd4-f45ae73b5240.png"></img>
 
 <h4> Registering an account webpage </h4>
-<img src = "
+<img src = "https://user-images.githubusercontent.com/56744953/95165549-35814180-077a-11eb-9e5e-40c1dbb5fa4e.png>
+
+<h4> After registering an account, main menu page for accounts </h4>
+<img src = ""></img>
