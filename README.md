@@ -1,6 +1,6 @@
 <h2> WireFramer Project </h2>
 
-<div style = "font-style: Verdana"> 
+<div style = "font-family: Verdana"> 
 This project was created using Javascript with React/HTML/CSS and Firebase as the database. To start this project, please run "npm start" in the terminal. A webpage will show up asking to login. If you are a new register, click Register on the top right corner and enter your credentials and this will allow you to login whenever running this project again. If you are a new user, after registering for a new account you are allowed to create a new wireframer. In this window, you are allowed to create a webpage whatever way you want to, and it can be saved and used later. The database storing your credentials is stored using Firebase and to render the wireframes, React is used. The goal is to allow users to manage each attribute of the wireframes including dragging, duplicating, editing, and resizing the components on the screen. A foolproof design implementation is in place to prevent the users doing illegal operations such as modifying urls, etc.
   
 </div>
