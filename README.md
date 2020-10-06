@@ -8,4 +8,7 @@ This project was created using Javascript with React/HTML/CSS and Firebase as th
 <img src = "https://user-images.githubusercontent.com/56744953/95165549-35814180-077a-11eb-9e5e-40c1dbb5fa4e.png>
 
 <h4> After registering an account, main menu page for accounts </h4>
-<img src = ""></img>
+<img src = "https://user-images.githubusercontent.com/56744953/95165709-8abd5300-077a-11eb-828d-8930ffcbe245.png"></img>
+
+<h4> After registering an account, main menu page for accounts </h4>
+<img src = "https://user-images.githubusercontent.com/56744953/95165709-8abd5300-077a-11eb-828d-8930ffcbe245.png"></img>
